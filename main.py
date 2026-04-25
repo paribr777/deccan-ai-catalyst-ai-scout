@@ -1,7 +1,7 @@
 import streamlit as st
-from parser import parse_jd
+from parser import parser
 from matcher import compute_match_score
-from sim_outreach import simulate_outreach
+from outreach import simulate_outreach
 from scoring import score_interest
 from loader import load_candidates
 
