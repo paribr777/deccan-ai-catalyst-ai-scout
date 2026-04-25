@@ -1,0 +1,92 @@
+[
+  {
+    "name": "Kushi",
+    "skills": ["Python", "NLP", "Transformers", "Pytorch"],
+    "experience": 3,
+    "summary": "Worked on NLP chatbots and ML models."
+  },
+  {
+    "name": "Bajaj",
+    "skills": ["Java", "Spring", "Microservices", "SQL", "ExpressJS"],
+    "experience": 5,
+    "summary": "Backend engineer with microservices experience."
+  },
+  {
+    "name": "Navya",
+    "skills": ["Python", "Machine Learning", "Data Science", "Pytorch"],
+    "experience": 2,
+    "summary": "Data scientist with strong ML background."
+  },
+    {
+    "name": "Layla",
+    "skills": ["Python", "Cybersecurity"],
+    "experience": 0,
+    "summary": "Fresher proficient in cybersec"
+  },
+  {
+    "name": "Myra",
+    "skills": ["OpenAI", "Gemini", "NLP", "LLM"],
+    "experience": 8,
+    "summary": "AI Engineer with LLM experience."
+  },
+  {
+    "name": "Kriti",
+    "skills": ["Speech Tech", "LLM", "Pytorch"],
+    "experience": 2,
+    "summary": "AI Graduate specialising in speech technology models."
+  },
+      {
+    "name": "Ishani",
+    "skills": ["C++", "Cybersecurity", "Software development"],
+    "experience": 6,
+    "summary": "Software engineer with cybersec experience"
+  },
+  {
+    "name": "Aarav",
+    "skills": ["UI UX", "Frontend", "ReactJS"],
+    "experience": 8,
+    "summary": "Frontend dev specialising in UI UX"
+  },
+  {
+    "name": "Raman",
+    "skills": ["Reinforcement Learning", "Machine Learning", "Python"],
+    "experience": 2,
+    "summary": "ML Engineer with RL experience."
+  },
+      {
+    "name": "Shira",
+    "skills": ["DBMS", "SQL", "Data mining"],
+    "experience": 3,
+    "summary": "Data engineer experienced in SQL"
+  },
+  {
+    "name": "Ganesh",
+    "skills": ["DevOPS", "Cloud Computing", "AWS"],
+    "experience": 4,
+    "summary": "Cloud engineer specialising in AWS cloud services"
+  },
+  {
+    "name": "Krutika",
+    "skills": ["MLOPS", "LLM", "Google Cloud Platform"],
+    "experience": 11,
+    "summary": "DevOPs engineer with LLM and AI experience on GCP."
+  },
+        {
+    "name": "Ashik",
+    "skills": ["Agentic AI", "GPT", "Vibe Coding"],
+    "experience": 6,
+    "summary": "AI engineer working with agentic ai chatbots."
+  },
+  {
+    "name": "Jyothi",
+    "skills": ["GenAI", "Decoder-only models", "Gemini"],
+    "experience": 4,
+    "summary": "ML Graduate specialising in generative ai."
+  },
+  {
+    "name": "Hashira",
+    "skills": ["MLOPS", "AI", "MS Azure"],
+    "experience": 1,
+    "summary": "MLOPs engineer familiar with AI on Azure."
+  }
+]
