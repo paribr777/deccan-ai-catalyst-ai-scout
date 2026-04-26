@@ -27,7 +27,11 @@ Recruiters spend significant time searching for candidates and assessing their i
 * Matches candidates based on:
   * Skill overlap (with synonym-based and fuzzy matching)
   * Minimum number of years of experience
-    
+
+  ```text
+    Match Score = 0.75 * Skill Overlap + 0.25 * Min/. Experience Match
+  ```
+  
 * Provides **explanations**:
   * Matched skills
   * Missing skills
@@ -175,6 +179,5 @@ Handles real-world variations:
 
 ## Demo Video
 
-(Add your demo video link here)
-
+https://drive.google.com/file/d/1O0VSZjTfukRdU5qojIjnQhHCkzDooaiv/view
 
